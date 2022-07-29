@@ -5,4 +5,3 @@
 - Yonee
 - 大阪府大阪市
 - SQL、DB周り、javascript（学習中）
-- テスト
